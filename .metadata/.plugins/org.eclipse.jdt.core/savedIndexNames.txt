@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Nubia\Documents\ProjetoPOOUni1\.metadata\.plugins\org.eclipse.jdt.core
+3805488758.index
+1865797976.index
+334614180.index
